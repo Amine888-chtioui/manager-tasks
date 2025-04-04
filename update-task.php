@@ -67,6 +67,9 @@ if(isset($_GET['task_id'])){
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="form-animation.js"></script>
+    <script src="task-manager.js"></script>
+    <link rel="stylesheet" href="update.css">
     <title>Document</title>
 </head>
 <body>
